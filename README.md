@@ -10,3 +10,4 @@ you can use yarn or npm
 "build-storybook": `build storybook`,
 "@coverage": 'collect coverage of tested files'
 "test": `run test`
+   
