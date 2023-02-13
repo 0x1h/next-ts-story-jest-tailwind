@@ -11,3 +11,4 @@ you can use yarn or npm
 "@coverage": 'collect coverage of tested files'
 "test": `run test`
    
+ 
